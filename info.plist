@@ -221,6 +221,8 @@ Would anybody want it?
 You are an engineer
 You can only make one dot at a time
 You don't have to be ashamed of using your own ideas</string>
+				<key>wordseparatortype</key>
+				<integer>1</integer>
 			</dict>
 			<key>type</key>
 			<string>alfred.workflow.utility.random</string>
