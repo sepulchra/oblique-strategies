@@ -222,7 +222,7 @@ You are an engineer
 You can only make one dot at a time
 You don't have to be ashamed of using your own ideas</string>
 				<key>wordseparatortype</key>
-				<integer>0</integer>
+				<integer>1</integer>
 			</dict>
 			<key>type</key>
 			<string>alfred.workflow.utility.random</string>
@@ -249,7 +249,11 @@ The "card" will be shown in large type.
 
 ## Download
 
-[Get the latest release.](https://github.com/sepulchra/oblique-strategies)</string>
+[Get the latest release.](https://github.com/sepulchra/oblique-strategies)
+
+## License
+
+3-Clause BSD</string>
 	<key>uidata</key>
 	<dict>
 		<key>298D6289-1219-4AC7-903A-BFE513A1F7D5</key>
@@ -281,8 +285,6 @@ The "card" will be shown in large type.
 		</dict>
 	</dict>
 	<key>userconfigurationconfig</key>
-	<array/>
-	<key>variablesdontexport</key>
 	<array/>
 	<key>version</key>
 	<string>2023.2</string>
